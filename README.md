@@ -15,6 +15,7 @@ Arduino Uno and an alcohol detection sensor (MQ-3) as its major components.
 When the level of alcohol crosses a permissible limit, the vehicle ignition system 
 (DC motor) will be turned off. 
 Keywords: Alcohol detection, Arduino Uno, MQ3 Sensor, Engine Off. 
+
 Components required for the Project 
 1. Arduino-UNO
  2. MQ-3 Alcohol Sensor
